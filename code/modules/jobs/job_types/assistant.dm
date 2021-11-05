@@ -75,6 +75,13 @@ Assistant
 	name = "Assistant (Deckhand)"
 	accessory = /obj/item/clothing/accessory/armband/cargo
 
+/datum/outfit/job/assistant/solgov
+	name = "Sailor (SolGov)"
+
+	uniform = /obj/item/clothing/under/solgov
+	shoes = /obj/item/clothing/shoes/combat
+	head = /obj/item/clothing/head/beret/solgov/plain
+
 /datum/outfit/job/assistant/intern
 	name = "Assistant (Intern)"
 	uniform = /obj/item/clothing/under/suit/black
@@ -107,3 +114,10 @@ Assistant
 
 	uniform = /obj/item/clothing/under/costume/sailor
 	shoes = /obj/item/clothing/shoes/jackboots
+
+/datum/outfit/job/assistant/corporate
+	name = "Business Associate"
+
+	uniform = /obj/item/clothing/under/suit/black
+	shoes = /obj/item/clothing/shoes/laceup
+	suit = /obj/item/clothing/suit/toggle/lawyer/black
