@@ -1,0 +1,295 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/template_noop,
+/area/space)
+"b" = (
+/obj/structure/chair/stool,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"d" = (
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"f" = (
+/obj/structure/table/reinforced,
+/obj/item/gps/mining,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"g" = (
+/obj/machinery/modular_computer/console/preset/civilian{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"h" = (
+/obj/machinery/light/floor,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"i" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"j" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"k" = (
+/obj/machinery/light/small,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"l" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"m" = (
+/obj/structure/rack,
+/obj/item/pickaxe/drill,
+/obj/item/pickaxe/drill,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"n" = (
+/obj/structure/table/reinforced,
+/obj/machinery/recharger,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"o" = (
+/obj/machinery/door/airlock/mining,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"p" = (
+/obj/machinery/suit_storage_unit/standard_unit,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"q" = (
+/obj/structure/rack,
+/obj/item/chainsaw,
+/obj/item/chainsaw,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"t" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"u" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"v" = (
+/obj/structure/rack,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"w" = (
+/obj/machinery/door/airlock/mining,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"x" = (
+/obj/machinery/light/floor,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"z" = (
+/obj/structure/closet/crate/miningcar,
+/obj/item/card/mining_point_card{
+	points = 3000
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"A" = (
+/mob/living/simple_animal/hostile/mining_drone{
+	name = "\improper Autonomous minebot"
+	},
+/turf/open/floor/mech_bay_recharge_floor{
+	desc = "Placing a mining bot on this station will recharge its internal power cell.";
+	name = "robot recharge station"
+	},
+/area/ruin/powered)
+"C" = (
+/obj/machinery/light/floor,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"F" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"G" = (
+/obj/machinery/porta_turret/syndicate/energy,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"I" = (
+/turf/closed/wall/rust,
+/area/ruin/powered)
+"L" = (
+/obj/machinery/door/airlock/mining,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"M" = (
+/obj/machinery/vending/mining_equipment,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"R" = (
+/mob/living/simple_animal/hostile/mining_drone{
+	name = "\improper Autonomous minebot"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/mech_bay_recharge_floor{
+	desc = "Placing a mining bot on this station will recharge its internal power cell.";
+	name = "robot recharge station"
+	},
+/area/ruin/powered)
+"T" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"W" = (
+/obj/machinery/suit_storage_unit/open,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"X" = (
+/obj/structure/rack,
+/mob/living/simple_animal/hostile/cockroach/glockroach,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Y" = (
+/turf/open/floor/plating,
+/area/ruin/powered)
+"Z" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+
+(1,1,1) = {"
+a
+a
+a
+T
+Y
+Y
+T
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+G
+t
+I
+w
+L
+I
+t
+G
+a
+"}
+(3,1,1) = {"
+a
+t
+t
+q
+d
+j
+X
+t
+t
+a
+"}
+(4,1,1) = {"
+k
+I
+p
+h
+j
+u
+x
+n
+I
+Z
+"}
+(5,1,1) = {"
+Y
+o
+d
+d
+A
+R
+j
+F
+i
+Y
+"}
+(6,1,1) = {"
+Y
+L
+j
+d
+M
+z
+b
+g
+i
+Y
+"}
+(7,1,1) = {"
+k
+I
+W
+C
+j
+j
+h
+f
+I
+Z
+"}
+(8,1,1) = {"
+a
+t
+t
+m
+j
+j
+v
+t
+t
+a
+"}
+(9,1,1) = {"
+a
+G
+t
+I
+w
+w
+I
+t
+G
+a
+"}
+(10,1,1) = {"
+a
+a
+a
+l
+Y
+Y
+l
+a
+a
+a
+"}
